@@ -12,3 +12,8 @@ Se você usa VSCode para construir sua app, incluimos uma lista de extensões su
 
 ### **Perguntas?**
 Se tiver perguntas, entre [na página do Curso](https://bootcamp.web3dev.com.br/courses/Solana_And_Web3), faça o link com seu Discord. No [Discord da comunidade](https://discord.web3dev.com.br) você terá acesso aos canais de ajuda e aos monitores de bootcamp.
+
+### Install
+```bash
+npm install @project-serum/anchor @solana/web3.js
+```

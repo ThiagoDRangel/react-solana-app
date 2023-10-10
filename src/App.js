@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import twitterLogo from "./assets/twitter-logo.svg";
+import idl from './idl.json';
 import "./App.css";
 
 // Mude isso para seu Twitter se quiser.
